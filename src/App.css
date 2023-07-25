@@ -9,7 +9,8 @@
   color:yellow;
   font-family: 'Sarabun', sans-serif;
 }
-.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+.table-hover tbody tr:hover td, 
+.table-hover tbody tr:hover th {
   background-color: chartreuse;
   font-family: 'Sarabun', sans-serif;
 }
