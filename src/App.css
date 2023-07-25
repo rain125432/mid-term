@@ -1,28 +1,28 @@
-  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai&display=swap');
-  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai&display=swap');
 
 .link {
-  color:white;
-  font-family: 'Sarabun', sans-serif;
+color:white;
+font-family: 'Sarabun', sans-serif;
 }
 .link:hover {
-  color:yellow;
-  font-family: 'Sarabun', sans-serif;
+color:yellow;
+font-family: 'Sarabun', sans-serif;
 }
 .table-hover tbody tr:hover td, 
 .table-hover tbody tr:hover th {
-  background-color: chartreuse;
-  font-family: 'Sarabun', sans-serif;
+background-color: chartreuse;
+font-family: 'Sarabun', sans-serif;
 }
 h3 {
-  text-align: center;
-  font-family: 'Prompt', sans-serif;
-  text-decoration: underline;
-  padding-top: 1%;
-  padding-bottom: 5%;
+text-align: center;
+font-family: 'Prompt', sans-serif;
+text-decoration: underline;
+padding-top: 1%;
+padding-bottom: 5%;
 }
 .center-block {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
 }

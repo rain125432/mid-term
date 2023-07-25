@@ -5,15 +5,17 @@ function Contact() {
   return (
     <>
       <Layout />
-      <h3>Ubon Ratchathani University</h3>
+      <h3>นาย เจตพล แสงศรี 65114340129</h3>
       <div>
-        85 Sathonlamrk Road
+        นาย เจตพล แสงศรี
         <br />
-        Warin Chamrap District
+        65114340129
         <br />
-        Ubon Ractchathani
-        <br />
-        Thailand 34190
+        <img
+          src="r-1.jpg"
+          alt="food1"
+          class="rounded-circle img-fluid mx-auto d-block"
+        />
       </div>
     </>
   );

@@ -50,17 +50,31 @@ function Index() {
   return (
     <>
       <Layout />
-      <h3 ref={header1}>อาหารพื้นเมืองที่มีสรรพคุณต่อสุขภาพตามวิถีภูมิปัญญาท้องถิ่นของจังหวัดอุบลราชธานี</h3>
+      <h3 ref={header1}>
+        อาหารพื้นเมืองที่มีสรรพคุณต่อสุขภาพตามวิถีภูมิปัญญาท้องถิ่นของจังหวัดอุบลราชธานี
+      </h3>
       <div class="container">
         <div class="row">
           <div class="col">
-            <img src="card-01.jpg" alt="food1" class="rounded-circle img-fluid mx-auto d-block" />
+            <img
+              src="card-02.jpg"
+              alt="food1"
+              class="rounded-circle img-fluid mx-auto d-block"
+            />
           </div>
           <div class="col">
-            <img src="card-05.jpg" alt="food1" class="rounded-circle img-fluid mx-auto d-block" />
+            <img
+              src="card-05.jpg"
+              alt="food1"
+              class="rounded-circle img-fluid mx-auto d-block"
+            />
           </div>
           <div class="col">
-            <img src="card-07.jpg" alt="food1" class="rounded-circle img-fluid mx-auto d-block" />
+            <img
+              src="card-08.jpg"
+              alt="food1"
+              class="rounded-circle img-fluid mx-auto d-block"
+            />
           </div>
         </div>
       </div>
@@ -77,11 +91,10 @@ function Product() {
   };
 
   const data = [
-    ["กางเกงยีนส์", 1200],
-    ["เสื้อยืด", 350],
-    ["กางเกงขาสั้น", 450],
-    ["หมวก", 500],
-    ["ถุงเท้า", 100],
+    ["ปลาส้มทรงเครื่องสมุนไพร", ],
+    ["แกงเห็ดเผาะไข่มดแดง", 350],
+    ["ลาบปลาคัง", 450],
+    
   ];
 
   return (
